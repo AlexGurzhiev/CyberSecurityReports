@@ -26,4 +26,4 @@
 Проверять права доступа к ресурсу на сервере: убедиться, что пользователь имеет доступ только к своей корзине.
 
 ## [Задание №4](https://github.com/AlexGurzhiev/CyberSecurityReports/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%204.jpg)
-### XSS-код: <img src="x" onerror="alert('XSS')">
+### [XSS-код](https://github.com/AlexGurzhiev/CyberSecurityReports/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%205.jpg)

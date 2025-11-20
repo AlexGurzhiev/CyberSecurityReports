@@ -66,7 +66,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ## [Задание №2](https://github.com/AlexGurzhiev/CyberSecurityReports/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%202.jpg)
 ### Логин администратора: admin@juice-sh.op
-### Хэш пароля: d6c0c2d6e7f7e7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7
+### Хэш пароля: 0192023a7bbd73250516f069df18b500
 ### Пароль администратора: admin123
 ### Что такое cookie?
 Это небольшие данные, хранящиеся в браузере и передаваемые серверу с каждым запросом. Используются для аутентификации, сессий и т.д.
